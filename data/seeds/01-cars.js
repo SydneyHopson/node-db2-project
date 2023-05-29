@@ -9,7 +9,7 @@ const cars = [
         transmission: 'automatic',
     },
     {
-        vin: '1111111111111',
+        vin: '222222222222',
         make: 'Model Y',
         model: 'Tesla',
         milage: 60000,
@@ -17,7 +17,7 @@ const cars = [
         transmission: 'automatic',
     },
     {
-        vin: '1111111111111',
+        vin: '333333333333',
         make: 'EV',
         model: 'Hummer',
         milage: 1600,
